@@ -10,7 +10,7 @@
 
 ## How to work with the repository
 To start the task, you need to copy the URL of your repository and clone it. (Please note that you are cloning your own repository, not the original template!)
-  ![image](https://user-images.githubusercontent.com/14962819/235600053-de6be309-56d5-4c5f-adc3-d466887962f6.png)
+  ![image](https://github.com/tripleten-com/Wordicum-3/assets/120686503/b4e31f6c-8e34-4d7f-8b5a-18c3f776ac21)
   
 ### Create a virtual environment
 
