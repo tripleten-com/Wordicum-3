@@ -32,10 +32,10 @@ The virtual environment will be deployed in the *wordicum-3/* directory. The `ve
 
 ```
 Dev/
- └── ya-tube-3/
+ └── wordicum-3/
      ├── tests/             TripleTen tests for the project
      ├── venv/              Virtual environment directory
-     ├── ya-tube-3/         <-- Project directory
+     ├── wordicum-3/         <-- Project directory
      |   ├── ...            <-- Django project structure
      |   └── manage.py      
      ├── .gitignore         List of files and folders hidden from Git tracking
