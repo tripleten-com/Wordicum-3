@@ -5,9 +5,8 @@
   Press the "Use this template" button and select the "Create a new repository" option.
   ![image](https://user-images.githubusercontent.com/14962819/235599080-2819c72b-3161-48fe-926d-91c289941c20.png)
   
-1. Fill in the **Repository name** and **Description** fields and click the "Create repository from template" button.
-  ![image](https://user-images.githubusercontent.com/14962819/235599367-6b6025e2-5ceb-4b57-87f4-8c3a2ac18a5b.png)
-
+2. Fill in the **Repository name** and **Description** fields and click the "Create repository from template" button.
+  ![image](https://github.com/tripleten-com/Wordicum-3/assets/120686503/029f2e5a-2718-4d34-90ed-e673c218e7ec)
 
 ## How to work with the repository
 To start the task, you need to copy the URL of your repository and clone it. (Please note that you are cloning your own repository, not the original template!)
