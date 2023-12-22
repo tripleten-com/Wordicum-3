@@ -1,4 +1,4 @@
-# ya-tube-3
+# Wordicum-3
 
 ## Creating a repository
 1. Create a repository for yourself, using this template.
