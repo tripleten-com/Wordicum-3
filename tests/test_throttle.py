@@ -31,8 +31,8 @@ def test_rest_framework_throttle_classes(settings, default_class):
 @pytest.mark.parametrize(
     "rate_client, rate",
     [
-        ('user', '100000/minute'),
-        ('anon', '1000/minute')
+        ('user', '100/minute'),
+        ('anon', '10/minute')
     ]
 )
 def test_rest_framework_throttle_rates(settings, rate_client, rate):
@@ -62,7 +62,7 @@ def test_rest_framework_throttle_rates(settings, rate_client, rate):
     )
 
     assert actual_rate == rate, (
-        f"Check that in the `wordicum/settings.py` file with the project settings, `{setting_name}` "
-        f"has a key in `{rest_framework_key}` of the dictionary `{rest_framework_key}` named `{rate_client}` "
-        f"A limit has been set according to the task condition."
+        f"Check that in the wordicum/settings.py file in the project settings, {setting_name} "
+        f"has a key in {rest_framework_key} named {rate_client} "
+        f"with the limit set according to the task condition."
     )
